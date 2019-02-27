@@ -1,5 +1,5 @@
 # GUMKACI - FITNESS
 **Projekt Softvérové inžinierstvo 2**
-<br>__skupina Gumkáči__
-<br>**Team leader:** __Bc. Marek Jalč__
-<br>**Členovia:** __Bc. Michal Illés, Bc. Jozef Kilik, Bc. Petra Baxová__
+<br>_skupina Gumkáči_
+<br>**Team leader:** _Bc. Marek Jalč_
+<br>**Členovia:** _Bc. Michal Illés, Bc. Jozef Kilik, Bc. Petra Baxová_
